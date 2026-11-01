@@ -1,0 +1,11 @@
+# KiCad specific files
+*.kicad_sch~
+*.kicad_pcb~
+*-bak
+*_autosave*
+fp-lib-table.bak
+sym-lib-table.bak
+
+# OS generated files
+.DS_Store
+Thumbs.db
